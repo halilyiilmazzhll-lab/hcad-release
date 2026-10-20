@@ -1,7 +1,7 @@
 {
-  "versionCode": 20101,
-  "versionName": "2.1.1",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.1.1/app-debug.apk",
-  "releaseNotes": "HCad v2.1.1 - Eski önbellek nedeniyle güncellemenin görünmemesi düzeltildi. Güncel sürüm GitHub üzerinden doğrulanır; bağlantı ve sunucu hataları artık güncel olarak gösterilmez.",
+  "versionCode": 20300,
+  "versionName": "2.3.0",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.0/app-debug.apk",
+  "releaseNotes": "HCad v2.3.0 - Eski önbellek nedeniyle güncellemenin görünmemesi düzeltildi. Güncel sürüm GitHub üzerinden doğrulanır; bağlantı ve sunucu hataları artık güncel olarak gösterilmez.",
   "forceUpdate": false
 }
