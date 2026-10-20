@@ -1,7 +1,7 @@
 {
-  "versionCode": 20002,
-  "versionName": "2.0.2",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.0.2/app-debug.apk",
-  "releaseNotes": "HCad v2.0.2 - Tutarlı açık/koyu arayüz, yinelenen butonların kaldırılması, doğrudan katman erişimi ve saha araçlarında kullanım iyileştirmeleri.",
+  "versionCode": 20100,
+  "versionName": "2.1.0",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.1.0/app-debug.apk",
+  "releaseNotes": "HCad v2.1.0 - Tutarlı açık/koyu arayüz, yinelenen butonların kaldırılması, doğrudan katman erişimi ve saha araçlarında kullanım iyileştirmeleri.",
   "isForceUpdate": false
 }
