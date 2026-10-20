@@ -1,7 +1,7 @@
 {
-  "versionCode": 20303,
-  "versionName": "2.3.3",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.3/app-debug.apk",
-  "releaseNotes": "HCad v2.3.3 - Eski önbellek nedeniyle güncellemenin görünmemesi düzeltildi. Güncel sürüm GitHub üzerinden doğrulanır; bağlantı ve sunucu hataları artık güncel olarak gösterilmez.",
+  "versionCode": 20304,
+  "versionName": "2.3.4",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.4/app-debug.apk",
+  "releaseNotes": "HCad v2.3.4 - Uygulama içi Lisansım ekranı ve çevrimdışı uyarı bannerı eklendi. Süreli lisans, cihaz sıfırlama ve son görülme takibi aktif edildi.",
   "forceUpdate": false
 }
