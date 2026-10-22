@@ -1,7 +1,7 @@
 {
-  "versionCode": 20307,
-  "versionName": "2.3.7",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.7/app-debug.apk",
-  "releaseNotes": "HCad v2.3.7 - Netcad NCZ 29 baytlık LayerRec ve 256 baytlık TStyleRecord entegre edildi. IsOpen görünürlük kuralı ve 256 renk paleti bağlandı.",
+  "versionCode": 20308,
+  "versionName": "2.3.8",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.8/app-debug.apk",
+  "releaseNotes": "HCad v2.3.8 - Netcad NCZ 29 baytlık LayerRec ve 256 baytlık TStyleRecord entegre edildi. IsOpen görünürlük kuralı ve 256 renk paleti bağlandı.",
   "forceUpdate": false
 }
