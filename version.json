@@ -1,7 +1,7 @@
 {
-  "versionCode": 20304,
-  "versionName": "2.3.4",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.4/app-debug.apk",
-  "releaseNotes": "HCad v2.3.4 - Uygulama içi Lisansım ekranı ve çevrimdışı uyarı bannerı eklendi. Süreli lisans, cihaz sıfırlama ve son görülme takibi aktif edildi.",
+  "versionCode": 20305,
+  "versionName": "2.3.5",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.5/app-debug.apk",
+  "releaseNotes": "HCad v2.3.5 - Netcad NCZ 29 baytlık LayerRec ve 256 baytlık TStyleRecord entegre edildi. IsOpen görünürlük kuralı ve 256 renk paleti bağlandı.",
   "forceUpdate": false
 }
