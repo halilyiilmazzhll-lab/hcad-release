@@ -1,7 +1,7 @@
 {
-  "versionCode": 20328,
-  "versionName": "2.3.28",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.28/app-debug.apk",
-  "releaseNotes": "HCad v2.3.28 - Netcad Ekran Uzayı (Screen-Space) Nokta Etiketi Motoru ve REA Nokta Kotu Renklendirme Mimarisi",
+  "versionCode": 20329,
+  "versionName": "2.3.29",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.29/app-debug.apk",
+  "releaseNotes": "HCad v2.3.29 - Dolgulu ve Yüksek Görünürlüklü GPS Konum Simgesi ile Uydu Altlığı Durum Kararlılığı",
   "forceUpdate": false
 }
