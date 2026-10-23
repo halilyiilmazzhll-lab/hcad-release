@@ -1,7 +1,7 @@
 {
-  "versionCode": 20332,
-  "versionName": "2.3.32",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.32/app-debug.apk",
-  "releaseNotes": "HCad v2.3.32 - Dikey Modda Proje Açılış Çökmesinin (DEX Yazmaç Sınırı & GL Yaşam Döngüsü) Giderilmesi",
+  "versionCode": 20333,
+  "versionName": "2.3.33",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.33/app-debug.apk",
+  "releaseNotes": "HCad v2.3.33 - Netcad Masaüstü / Saha İstasyonu Modu Ergonomisi ve Ekran Alanı Optimizasyonu",
   "forceUpdate": false
 }
