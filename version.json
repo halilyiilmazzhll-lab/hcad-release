@@ -1,7 +1,7 @@
 {
-  "versionCode": 20331,
-  "versionName": "2.3.31",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.31/app-debug.apk",
-  "releaseNotes": "HCad v2.3.31 - Netcad 8.5 Masaüstü / Saha İstasyonu Modu (Landscape + Mouse CAD Arayüzü)",
+  "versionCode": 20332,
+  "versionName": "2.3.32",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.32/app-debug.apk",
+  "releaseNotes": "HCad v2.3.32 - Dikey Modda Proje Açılış Çökmesinin (DEX Yazmaç Sınırı & GL Yaşam Döngüsü) Giderilmesi",
   "forceUpdate": false
 }
