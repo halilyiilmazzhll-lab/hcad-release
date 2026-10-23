@@ -1,7 +1,7 @@
 {
-  "versionCode": 20315,
-  "versionName": "2.3.15",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.15/app-debug.apk",
-  "releaseNotes": "HCad v2.3.15 - Nokta Kodu (Point Code) Ofset Düzeltmesi ve Çift Render (Wireframe Stroke) İzolasyonu",
+  "versionCode": 20316,
+  "versionName": "2.3.16",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.16/app-debug.apk",
+  "releaseNotes": "HCad v2.3.16 - Pürüzsüz TrueType Yazı Motoru ve Köşeli/Pahlı Glif Kırıklıklarının Giderilmesi",
   "forceUpdate": false
 }
