@@ -1,7 +1,7 @@
 {
-  "versionCode": 20323,
-  "versionName": "2.3.23",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.23/app-debug.apk",
-  "releaseNotes": "HCad v2.3.23 - Sürekli Harita Parsel Seçim Modu ve Çizim Özellikleri Çakışmasının Önlenmesi",
+  "versionCode": 20324,
+  "versionName": "2.3.24",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.24/app-debug.apk",
+  "releaseNotes": "HCad v2.3.24 Güncellemesi",
   "forceUpdate": false
 }
