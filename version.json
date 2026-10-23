@@ -1,7 +1,7 @@
 {
-  "versionCode": 20314,
-  "versionName": "2.3.14",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.14/app-debug.apk",
-  "releaseNotes": "HCad v2.3.14 - Netcad Nokta Görüntüsü (Screen-Space GL_POINTS) ve Kompakt Nokta Bilgi Etiketleri",
+  "versionCode": 20315,
+  "versionName": "2.3.15",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.15/app-debug.apk",
+  "releaseNotes": "HCad v2.3.15 - Nokta Kodu (Point Code) Ofset Düzeltmesi ve Çift Render (Wireframe Stroke) İzolasyonu",
   "forceUpdate": false
 }
