@@ -1,7 +1,7 @@
 {
-  "versionCode": 20318,
-  "versionName": "2.3.18",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.18/app-debug.apk",
-  "releaseNotes": "HCad v2.3.18 - Netcad 25 Durumlu JustSet Metin Konumlandırma ve Merkez Hizalama Düzeltmesi",
+  "versionCode": 20319,
+  "versionName": "2.3.19",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.19/app-debug.apk",
+  "releaseNotes": "HCad v2.3.19 - DWG/DXF Motoru Modernizasyonu: Solid Dolgular, 9 Yönlü Tipografi, Blok Nitelikleri ve Çizgi Tipleri",
   "forceUpdate": false
 }
