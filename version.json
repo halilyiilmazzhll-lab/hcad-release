@@ -1,7 +1,7 @@
 {
-  "versionCode": 20326,
-  "versionName": "2.3.26",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.26/app-debug.apk",
-  "releaseNotes": "HCad v2.3.26 Güncellemesi",
+  "versionCode": 20327,
+  "versionName": "2.3.27",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.27/app-debug.apk",
+  "releaseNotes": "HCad v2.3.27 - Doğrudan Karo Yöntemi (Netcad ve QGIS Yöntemi) ile Google Uydu Altlığı ve Yüksek Çözünürlük",
   "forceUpdate": false
 }
