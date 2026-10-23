@@ -1,7 +1,7 @@
 {
-  "versionCode": 20321,
-  "versionName": "2.3.21",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.21/app-debug.apk",
-  "releaseNotes": "HCad v2.3.21 Güncellemesi",
+  "versionCode": 20322,
+  "versionName": "2.3.22",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.22/app-debug.apk",
+  "releaseNotes": "HCad v2.3.22 - Harita Üzerinden Parsel Sorgulama, Komşu Parsel Adımlayıcısı ve Köşeleri Aplikasyona Gönderme",
   "forceUpdate": false
 }
