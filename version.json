@@ -1,7 +1,7 @@
 {
-  "versionCode": 20327,
-  "versionName": "2.3.27",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.27/app-debug.apk",
-  "releaseNotes": "HCad v2.3.27 - Doğrudan Karo Yöntemi (Netcad ve QGIS Yöntemi) ile Google Uydu Altlığı ve Yüksek Çözünürlük",
+  "versionCode": 20328,
+  "versionName": "2.3.28",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.28/app-debug.apk",
+  "releaseNotes": "HCad v2.3.28 - Netcad Ekran Uzayı (Screen-Space) Nokta Etiketi Motoru ve REA Nokta Kotu Renklendirme Mimarisi",
   "forceUpdate": false
 }
