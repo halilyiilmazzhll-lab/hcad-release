@@ -2,6 +2,6 @@
   "versionCode": 20314,
   "versionName": "2.3.14",
   "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.14/app-debug.apk",
-  "releaseNotes": "HCad v2.3.14 - Netcad NCZ 29 baytlık LayerRec ve 256 baytlık TStyleRecord entegre edildi. IsOpen görünürlük kuralı ve 256 renk paleti bağlandı.",
+  "releaseNotes": "HCad v2.3.14 - Netcad Nokta Görüntüsü (Screen-Space GL_POINTS) ve Kompakt Nokta Bilgi Etiketleri",
   "forceUpdate": false
 }
