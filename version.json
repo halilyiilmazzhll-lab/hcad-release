@@ -1,7 +1,7 @@
 {
-  "versionCode": 20317,
-  "versionName": "2.3.17",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.17/app-debug.apk",
-  "releaseNotes": "HCad v2.3.17 - Nokta Kodu ve Kot Yazı Boyutlarının Kompakt Orana İndirgenmesi",
+  "versionCode": 20318,
+  "versionName": "2.3.18",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.18/app-debug.apk",
+  "releaseNotes": "HCad v2.3.18 - Netcad 25 Durumlu JustSet Metin Konumlandırma ve Merkez Hizalama Düzeltmesi",
   "forceUpdate": false
 }
