@@ -1,7 +1,7 @@
 {
-  "versionCode": 20345,
-  "versionName": "2.3.45",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.45/app-debug.apk",
-  "releaseNotes": "HCad v2.3.45 Güncellemesi",
+  "versionCode": 20346,
+  "versionName": "2.3.46",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.46/app-debug.apk",
+  "releaseNotes": "HCad v2.3.46 - Netcad 8.5 Gerçek Yay (3-Nokta Arc), Obje Özellikleri, Alan Sor (ve Çizime Alan Yazdır), XYZ Sor (ve Nokta Kaydet) ve Zengin Metin Modalları",
   "forceUpdate": false
 }
