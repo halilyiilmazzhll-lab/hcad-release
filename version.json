@@ -1,7 +1,7 @@
 {
-  "versionCode": 20343,
-  "versionName": "2.3.43",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.43/app-debug.apk",
-  "releaseNotes": "HCad v2.3.43 - Netcad 8.5 'N' Uygulama Menüsü, Görünüm & Düzenle Sekmeleri ve Dönüşüm/Sil/Kaydır Araçları Eksiksiz Entegrasyonu",
+  "versionCode": 20344,
+  "versionName": "2.3.44",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.44/app-debug.apk",
+  "releaseNotes": "HCad v2.3.44 Güncellemesi",
   "forceUpdate": false
 }
