@@ -1,7 +1,7 @@
 {
-  "versionCode": 20358,
-  "versionName": "2.3.58",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.58/app-debug.apk",
-  "releaseNotes": "HCad v2.3.58 - v2.3.58 - Sanal Cihaz Aktivasyon Desteği ve Netcad Seçim Araçları Doğrulaması",
+  "versionCode": 20359,
+  "versionName": "2.3.59",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.59/app-debug.apk",
+  "releaseNotes": "HCad v2.3.59 Güncellemesi",
   "forceUpdate": false
 }
