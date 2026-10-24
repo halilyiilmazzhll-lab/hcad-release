@@ -1,7 +1,7 @@
 {
-  "versionCode": 20354,
-  "versionName": "2.3.54",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.54/app-debug.apk",
-  "releaseNotes": "HCad v2.3.54 - UX Sadeleştirme & Netcad Durum İstemi ve İptal/Bitir Entegrasyonu",
+  "versionCode": 20355,
+  "versionName": "2.3.55",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.55/app-debug.apk",
+  "releaseNotes": "HCad v2.3.55 - Netcad Akıllı Komutlar: Önceki Pencere (Zoom Previous), Sayısal Koordinat Girişleri ve Çoklu Seçimli Silme Entegrasyonu",
   "forceUpdate": false
 }
