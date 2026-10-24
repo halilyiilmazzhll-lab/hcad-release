@@ -1,7 +1,7 @@
 {
-  "versionCode": 20349,
-  "versionName": "2.3.49",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.49/app-debug.apk",
-  "releaseNotes": "HCad v2.3.49 - Netcad 8.5 Masaüstü ve Mobil Arayüz Uyumu: Geniş Üst Bar, Ribbon Araçları Sığdırma, Araçlar Sekmesi ve Etiketler Modalı",
+  "versionCode": 20350,
+  "versionName": "2.3.50",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.50/app-debug.apk",
+  "releaseNotes": "HCad v2.3.50 - Netcad 8.5 Bağlamsal Koordinat ve Nokta Seçim Araçları Mimarisi",
   "forceUpdate": false
 }
