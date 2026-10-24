@@ -1,7 +1,7 @@
 {
-  "versionCode": 20336,
-  "versionName": "2.3.36",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.36/app-debug.apk",
-  "releaseNotes": "HCad v2.3.36 - Nokta Adı, Kodu ve Kotu Etiketlerinin Sabit Standart Arial TrueType Fontuna Kilitlenmesi",
+  "versionCode": 20337,
+  "versionName": "2.3.37",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.37/app-debug.apk",
+  "releaseNotes": "HCad v2.3.37 - WhatsApp ve Dış Uygulamalardan Dosya Açma Hatalarının Çözümü ve Çizimin Doğrudan Yüklenmesi",
   "forceUpdate": false
 }
