@@ -1,7 +1,7 @@
 {
-  "versionCode": 20348,
-  "versionName": "2.3.48",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.48/app-debug.apk",
-  "releaseNotes": "HCad v2.3.48 - Netcad 8.5 Sol Kenar Dock Paneli: Mesajlar ('i') ve Semboloji ('aA') Dinamik Sekmeleri, Çizgi Deseni Kanvas Önizlemesi ve ARIAL Yazı Tipi Kutusu",
+  "versionCode": 20349,
+  "versionName": "2.3.49",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.49/app-debug.apk",
+  "releaseNotes": "HCad v2.3.49 - Netcad 8.5 Masaüstü ve Mobil Arayüz Uyumu: Geniş Üst Bar, Ribbon Araçları Sığdırma, Araçlar Sekmesi ve Etiketler Modalı",
   "forceUpdate": false
 }
