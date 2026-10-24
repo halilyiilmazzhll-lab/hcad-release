@@ -1,7 +1,7 @@
 {
-  "versionCode": 20340,
-  "versionName": "2.3.40",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.40/app-debug.apk",
-  "releaseNotes": "HCad v2.3.40 Güncellemesi",
+  "versionCode": 20341,
+  "versionName": "2.3.41",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.41/app-debug.apk",
+  "releaseNotes": "HCad v2.3.41 - Netcad Nokta Editörü Gerçek Tablo Entegrasyonu, CRUD ve NCN Dışa Aktarımı",
   "forceUpdate": false
 }
