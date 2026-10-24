@@ -1,7 +1,7 @@
 {
-  "versionCode": 20353,
-  "versionName": "2.3.53",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.53/app-debug.apk",
-  "releaseNotes": "HCad v2.3.53 - Tablet Canlı UI İncelemesi ve Düzeltmeleri: Checkbox Sığmama ve Sekme Başlık Kırpılması",
+  "versionCode": 20354,
+  "versionName": "2.3.54",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.54/app-debug.apk",
+  "releaseNotes": "HCad v2.3.54 - UX Sadeleştirme & Netcad Durum İstemi ve İptal/Bitir Entegrasyonu",
   "forceUpdate": false
 }
