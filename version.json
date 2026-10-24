@@ -1,7 +1,7 @@
 {
-  "versionCode": 20352,
-  "versionName": "2.3.52",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.52/app-debug.apk",
-  "releaseNotes": "HCad v2.3.52 - Arayüz Marka ve Metin Kimliği: Netcad İfadelerinin HCad Olarak Güncellenmesi",
+  "versionCode": 20353,
+  "versionName": "2.3.53",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.53/app-debug.apk",
+  "releaseNotes": "HCad v2.3.53 - Tablet Canlı UI İncelemesi ve Düzeltmeleri: Checkbox Sığmama ve Sekme Başlık Kırpılması",
   "forceUpdate": false
 }
