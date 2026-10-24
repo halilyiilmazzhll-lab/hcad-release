@@ -1,7 +1,7 @@
 {
-  "versionCode": 20341,
-  "versionName": "2.3.41",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.41/app-debug.apk",
-  "releaseNotes": "HCad v2.3.41 - Netcad Nokta Editörü Gerçek Tablo Entegrasyonu, CRUD ve NCN Dışa Aktarımı",
+  "versionCode": 20342,
+  "versionName": "2.3.42",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.42/app-debug.apk",
+  "releaseNotes": "HCad v2.3.42 - Nokta Editörü Portrait / Landscape Reaktif Uyumluluğu, LazyColumn Benzersiz Key ve Gerçek Dışa Aktarım",
   "forceUpdate": false
 }
