@@ -1,7 +1,7 @@
 {
-  "versionCode": 20334,
-  "versionName": "2.3.34",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.34/app-debug.apk",
-  "releaseNotes": "HCad v2.3.34 - Netcad REA Bulgularının Aktarımı: 32 Renk Paleti, F2 Kadastro Sembolleri ve CoGo Kutupsal Alım",
+  "versionCode": 20335,
+  "versionName": "2.3.35",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.35/app-debug.apk",
+  "releaseNotes": "HCad v2.3.35 - Yatay Ekran Güvenli Alanı (Cutout / Punch-Hole & Status Bar) ve Dikey Tuval Kaydırma Jest İzolasyonu",
   "forceUpdate": false
 }
