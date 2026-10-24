@@ -1,7 +1,7 @@
 {
-  "versionCode": 20337,
-  "versionName": "2.3.37",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.37/app-debug.apk",
-  "releaseNotes": "HCad v2.3.37 - WhatsApp ve Dış Uygulamalardan Dosya Açma Hatalarının Çözümü ve Çizimin Doğrudan Yüklenmesi",
+  "versionCode": 20338,
+  "versionName": "2.3.38",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.38/app-debug.apk",
+  "releaseNotes": "HCad v2.3.38 - Tabaka Açıp Kapatmada Uydu Karolarının Silinmesini ve Yeniden İndirilmesini Önleme",
   "forceUpdate": false
 }
