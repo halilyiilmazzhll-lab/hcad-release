@@ -1,7 +1,7 @@
 {
-  "versionCode": 20375,
-  "versionName": "2.3.75",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.75/app-debug.apk",
-  "releaseNotes": "HCad v2.3.75 - v2.3.75 - NCZ Farklı Kaydet İsim Diyaloğu Entegrasyonu ve Daire / Yay / Sembol Geometri Kaydı Onarımı (Bölüm 90)",
+  "versionCode": 20376,
+  "versionName": "2.3.76",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.76/app-debug.apk",
+  "releaseNotes": "HCad v2.3.76 - v2.3.76 - Netcad Vektörel Yazdırma Motoru ve Canlı Pafta Çerçevesi (Paper Window) Yeniden İnşası (Bölüm 91)",
   "forceUpdate": false
 }
