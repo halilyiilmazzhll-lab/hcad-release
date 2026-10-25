@@ -1,7 +1,7 @@
 {
-  "versionCode": 20367,
-  "versionName": "2.3.67",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.67/app-debug.apk",
-  "releaseNotes": "HCad v2.3.67 - v2.3.67 - Netcad 8.5 Nokta Yakalama Düzeltmeleri, Koordinat Hesap Makinası ve Tabaka Varsayılan Açılışı",
+  "versionCode": 20368,
+  "versionName": "2.3.68",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.68/app-debug.apk",
+  "releaseNotes": "HCad v2.3.68 - v2.3.68 - Netcad 8.5 NCZ Dışa Aktarma, Canlı OSNAP, Koordinat Hesap Makineleri, 2 Noktadan Helmert Dönüşümü, Obje Filtresi ve Kopyalama Modu",
   "forceUpdate": false
 }
