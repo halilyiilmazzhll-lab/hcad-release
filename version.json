@@ -1,7 +1,7 @@
 {
-  "versionCode": 20371,
-  "versionName": "2.3.71",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.71/app-debug.apk",
-  "releaseNotes": "HCad v2.3.71 - v2.3.71 - H Butonu UI Yerleşimi Düzeltmesi, NCZ Katman Görünürlük Bayrağı (Attrib Bit 0) ve NCZ Geometri Bayt Ofsetleri Onarımı (Bölüm 86)",
+  "versionCode": 20372,
+  "versionName": "2.3.72",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.72/app-debug.apk",
+  "releaseNotes": "HCad v2.3.72 - v2.3.72 - Netcad 8.5 Dinamik Çift Yönlü Seçim Penceresi (Auto Window / Crossing Drag), Genişletilmiş Ribbon Split Çizim Menüleri ve Analitik Hesap Araçları (Bölüm 87)",
   "forceUpdate": false
 }
