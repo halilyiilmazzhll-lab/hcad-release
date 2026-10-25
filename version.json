@@ -1,7 +1,7 @@
 {
-  "versionCode": 20372,
-  "versionName": "2.3.72",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.72/app-debug.apk",
-  "releaseNotes": "HCad v2.3.72 - v2.3.72 - Netcad 8.5 Dinamik Çift Yönlü Seçim Penceresi (Auto Window / Crossing Drag), Genişletilmiş Ribbon Split Çizim Menüleri ve Analitik Hesap Araçları (Bölüm 87)",
+  "versionCode": 20373,
+  "versionName": "2.3.73",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.73/app-debug.apk",
+  "releaseNotes": "HCad v2.3.73 - v2.3.73 - Hızlı Erişim Çubuğuna ve Uygulama Menüsüne Çizdir / Yazdır (Ctrl+P) Butonlarının Entegrasyonu (Bölüm 88)",
   "forceUpdate": false
 }
