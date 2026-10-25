@@ -1,7 +1,7 @@
 {
-  "versionCode": 20365,
-  "versionName": "2.3.65",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.65/app-debug.apk",
-  "releaseNotes": "HCad v2.3.65 - v2.3.65 - Netcad 8.5 Dinamik Ribbon: Çizimde Nokta Yakalama & Koordinat Araçları, Düzenlemede Hızlı Seçim Araçları",
+  "versionCode": 20366,
+  "versionName": "2.3.66",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.66/app-debug.apk",
+  "releaseNotes": "HCad v2.3.66 - v2.3.66 - Netcad 8.5 Etiket Ayarları Entegrasyonu (Nokta, Alan ve Çizgi Kotları)",
   "forceUpdate": false
 }
