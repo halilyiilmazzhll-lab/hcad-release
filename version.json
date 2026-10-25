@@ -1,7 +1,7 @@
 {
-  "versionCode": 20364,
-  "versionName": "2.3.64",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.64/app-debug.apk",
-  "releaseNotes": "HCad v2.3.64 - v2.3.64 - Ribbon Panel Boyut & Grup Başlıkları Netliği ve Ölçek Çubuğu Konumlaması",
+  "versionCode": 20365,
+  "versionName": "2.3.65",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.65/app-debug.apk",
+  "releaseNotes": "HCad v2.3.65 - v2.3.65 - Netcad 8.5 Dinamik Ribbon: Çizimde Nokta Yakalama & Koordinat Araçları, Düzenlemede Hızlı Seçim Araçları",
   "forceUpdate": false
 }
