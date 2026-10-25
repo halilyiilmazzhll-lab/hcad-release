@@ -1,7 +1,7 @@
 {
-  "versionCode": 20368,
-  "versionName": "2.3.68",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.68/app-debug.apk",
-  "releaseNotes": "HCad v2.3.68 - v2.3.68 - Netcad 8.5 NCZ Dışa Aktarma, Canlı OSNAP, Koordinat Hesap Makineleri, 2 Noktadan Helmert Dönüşümü, Obje Filtresi ve Kopyalama Modu",
+  "versionCode": 20369,
+  "versionName": "2.3.69",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.69/app-debug.apk",
+  "releaseNotes": "HCad v2.3.69 - v2.3.69 - Netcad NCZ İkili Blok Exporter, Ofset Tablosu Onarımı ve Netcad Kaydet / Farklı Kaydet Mantığı",
   "forceUpdate": false
 }
