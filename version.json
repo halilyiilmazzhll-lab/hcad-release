@@ -1,7 +1,7 @@
 {
-  "versionCode": 20377,
-  "versionName": "2.3.77",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.77/app-debug.apk",
-  "releaseNotes": "HCad v2.3.77 - v2.3.77 - NCZ Farklı Kaydetmede Türkçe Karakter (CP1254 / Windows-1254) Kodlama Onarımı (Bölüm 92)",
+  "versionCode": 20378,
+  "versionName": "2.3.78",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.78/app-debug.apk",
+  "releaseNotes": "HCad v2.3.78 - v2.3.78 - Netcad Ribbon Sekme Çubuğu Yatay Kaydırma (Horizontal Scroll) Desteği (Bölüm 93)",
   "forceUpdate": false
 }
