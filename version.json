@@ -1,7 +1,7 @@
 {
-  "versionCode": 20366,
-  "versionName": "2.3.66",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.66/app-debug.apk",
-  "releaseNotes": "HCad v2.3.66 - v2.3.66 - Netcad 8.5 Etiket Ayarları Entegrasyonu (Nokta, Alan ve Çizgi Kotları)",
+  "versionCode": 20367,
+  "versionName": "2.3.67",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.67/app-debug.apk",
+  "releaseNotes": "HCad v2.3.67 - v2.3.67 - Netcad 8.5 Nokta Yakalama Düzeltmeleri, Koordinat Hesap Makinası ve Tabaka Varsayılan Açılışı",
   "forceUpdate": false
 }
