@@ -1,7 +1,7 @@
 {
-  "versionCode": 20362,
-  "versionName": "2.3.62",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.62/app-debug.apk",
-  "releaseNotes": "HCad v2.3.62 Güncellemesi",
+  "versionCode": 20363,
+  "versionName": "2.3.63",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.63/app-debug.apk",
+  "releaseNotes": "HCad v2.3.63 - v2.3.63 - Netcad Seçim Mantığı (Pencere W vs Kesenler K) ve OpenGL Seçili Obje Gri Vurgulama",
   "forceUpdate": false
 }
