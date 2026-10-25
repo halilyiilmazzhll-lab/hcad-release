@@ -1,7 +1,7 @@
 {
-  "versionCode": 20376,
-  "versionName": "2.3.76",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.76/app-debug.apk",
-  "releaseNotes": "HCad v2.3.76 - v2.3.76 - Netcad Vektörel Yazdırma Motoru ve Canlı Pafta Çerçevesi (Paper Window) Yeniden İnşası (Bölüm 91)",
+  "versionCode": 20377,
+  "versionName": "2.3.77",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.77/app-debug.apk",
+  "releaseNotes": "HCad v2.3.77 - v2.3.77 - NCZ Farklı Kaydetmede Türkçe Karakter (CP1254 / Windows-1254) Kodlama Onarımı (Bölüm 92)",
   "forceUpdate": false
 }
