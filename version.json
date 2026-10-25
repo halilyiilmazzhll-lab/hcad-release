@@ -1,7 +1,7 @@
 {
-  "versionCode": 20373,
-  "versionName": "2.3.73",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.73/app-debug.apk",
-  "releaseNotes": "HCad v2.3.73 - v2.3.73 - Hızlı Erişim Çubuğuna ve Uygulama Menüsüne Çizdir / Yazdır (Ctrl+P) Butonlarının Entegrasyonu (Bölüm 88)",
+  "versionCode": 20374,
+  "versionName": "2.3.74",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.74/app-debug.apk",
+  "releaseNotes": "HCad v2.3.74 - v2.3.74 - Kanvas Gezinme Mikro Takılmalarının (Touch Stutter/Jank) Giderilmesi ve NCZ Metin Taban Çizgisi Konumlandırma Onarımı (Bölüm 89)",
   "forceUpdate": false
 }
