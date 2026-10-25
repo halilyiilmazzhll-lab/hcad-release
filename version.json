@@ -1,7 +1,7 @@
 {
-  "versionCode": 20374,
-  "versionName": "2.3.74",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.74/app-debug.apk",
-  "releaseNotes": "HCad v2.3.74 - v2.3.74 - Kanvas Gezinme Mikro Takılmalarının (Touch Stutter/Jank) Giderilmesi ve NCZ Metin Taban Çizgisi Konumlandırma Onarımı (Bölüm 89)",
+  "versionCode": 20375,
+  "versionName": "2.3.75",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.75/app-debug.apk",
+  "releaseNotes": "HCad v2.3.75 - v2.3.75 - NCZ Farklı Kaydet İsim Diyaloğu Entegrasyonu ve Daire / Yay / Sembol Geometri Kaydı Onarımı (Bölüm 90)",
   "forceUpdate": false
 }
