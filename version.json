@@ -1,7 +1,7 @@
 {
-  "versionCode": 20369,
-  "versionName": "2.3.69",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.69/app-debug.apk",
-  "releaseNotes": "HCad v2.3.69 - v2.3.69 - Netcad NCZ İkili Blok Exporter, Ofset Tablosu Onarımı ve Netcad Kaydet / Farklı Kaydet Mantığı",
+  "versionCode": 20370,
+  "versionName": "2.3.70",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.70/app-debug.apk",
+  "releaseNotes": "HCad v2.3.70 - v2.3.70 - Netcad 8.5 '2 Pencere Aç' (Split Viewport) ve Yazdırma / Çizdirme (Plot & Print) Mimarisi (Bölüm 80 & 81)",
   "forceUpdate": false
 }
