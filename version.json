@@ -1,7 +1,7 @@
 {
-  "versionCode": 20363,
-  "versionName": "2.3.63",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.63/app-debug.apk",
-  "releaseNotes": "HCad v2.3.63 - v2.3.63 - Netcad Seçim Mantığı (Pencere W vs Kesenler K) ve OpenGL Seçili Obje Gri Vurgulama",
+  "versionCode": 20364,
+  "versionName": "2.3.64",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.64/app-debug.apk",
+  "releaseNotes": "HCad v2.3.64 - v2.3.64 - Ribbon Panel Boyut & Grup Başlıkları Netliği ve Ölçek Çubuğu Konumlaması",
   "forceUpdate": false
 }
