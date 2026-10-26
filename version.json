@@ -1,7 +1,7 @@
 {
-  "versionCode": 20379,
-  "versionName": "2.3.79",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.79/app-debug.apk",
-  "releaseNotes": "HCad v2.3.79 - v2.3.79 - Farklı Kaydet Format Seçimi ve İkili AutoCAD DWG / DXF / NCZ Dışa Aktarım Yeniden İnşası (Bölüm 94)",
+  "versionCode": 20380,
+  "versionName": "2.3.80",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.80/app-debug.apk",
+  "releaseNotes": "HCad v2.3.80 - v2.3.80 - Hassas Nişangah (Offset Reticle) ile Nesne Seçimi ve Masaüstü Modu Etkileşim Onarımı (Bölüm 95)",
   "forceUpdate": false
 }
