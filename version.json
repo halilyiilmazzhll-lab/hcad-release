@@ -1,7 +1,7 @@
 {
-  "versionCode": 20390,
-  "versionName": "2.3.90",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.90/app-debug.apk",
-  "releaseNotes": "HCad v2.3.90 - v2.3.90 - Netcad Katman Yöneticisi & Referanslar Yöneticisi (REFMAN) Mimarisi (Bölüm 106)",
+  "versionCode": 20391,
+  "versionName": "2.3.91",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.91/app-debug.apk",
+  "releaseNotes": "HCad v2.3.91 - v2.3.91 - Netcad Dinamik Nokta Yakalama (OSNAP) İmleç Rozetleri & Yeni 3D CAD Launcher İkonu (Bölüm 107)",
   "forceUpdate": false
 }
