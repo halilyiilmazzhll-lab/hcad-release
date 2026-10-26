@@ -1,7 +1,7 @@
 {
-  "versionCode": 20388,
-  "versionName": "2.3.88",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.88/app-debug.apk",
-  "releaseNotes": "HCad v2.3.88 - v2.3.88 - DWG / DXF Dışa Aktarımında Tabaka ve Obje Renklerinin Kusursuz Korunması (Bölüm 104)",
+  "versionCode": 20389,
+  "versionName": "2.3.89",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.89/app-debug.apk",
+  "releaseNotes": "HCad v2.3.89 - v2.3.89 - Netcad Standartlarında Altlık Projeksiyonu Seçim Butonları & Otomatik Dilim Entegrasyonu (Bölüm 105)",
   "forceUpdate": false
 }
