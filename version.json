@@ -1,7 +1,7 @@
 {
-  "versionCode": 20389,
-  "versionName": "2.3.89",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.89/app-debug.apk",
-  "releaseNotes": "HCad v2.3.89 - v2.3.89 - Netcad Standartlarında Altlık Projeksiyonu Seçim Butonları & Otomatik Dilim Entegrasyonu (Bölüm 105)",
+  "versionCode": 20390,
+  "versionName": "2.3.90",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.90/app-debug.apk",
+  "releaseNotes": "HCad v2.3.90 - v2.3.90 - Netcad Katman Yöneticisi & Referanslar Yöneticisi (REFMAN) Mimarisi (Bölüm 106)",
   "forceUpdate": false
 }
