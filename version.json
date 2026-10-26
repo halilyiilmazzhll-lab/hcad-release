@@ -1,7 +1,7 @@
 {
-  "versionCode": 20381,
-  "versionName": "2.3.81",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.81/app-debug.apk",
-  "releaseNotes": "HCad v2.3.81 - v2.3.81 - Netcad Akıllı Komut Hafızası (Sağ Tık / İptal Sonrası Sol Tık ile Son Çağrılan Aracı Yeniden Etkinleştirme) (Bölüm 97)",
+  "versionCode": 20382,
+  "versionName": "2.3.82",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.82/app-debug.apk",
+  "releaseNotes": "HCad v2.3.82 - v2.3.82 - Boşta Dokunmayla Nesne Özellikleri Açılmasının Kaldırılması ve Yalnızca \"Obje Özellikleri\" Aracına Bağlanması (Bölüm 98)",
   "forceUpdate": false
 }
