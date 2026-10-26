@@ -1,7 +1,7 @@
 {
-  "versionCode": 20387,
-  "versionName": "2.3.87",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.87/app-debug.apk",
-  "releaseNotes": "HCad v2.3.87 - v2.3.87 - Netcad Obje Özellikleri Aracı & Düzenlenebilir Sekmeli Inspector (Bölüm 103)",
+  "versionCode": 20388,
+  "versionName": "2.3.88",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.88/app-debug.apk",
+  "releaseNotes": "HCad v2.3.88 - v2.3.88 - DWG / DXF Dışa Aktarımında Tabaka ve Obje Renklerinin Kusursuz Korunması (Bölüm 104)",
   "forceUpdate": false
 }
