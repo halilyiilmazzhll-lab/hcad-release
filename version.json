@@ -1,7 +1,7 @@
 {
-  "versionCode": 20384,
-  "versionName": "2.3.84",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.84/app-debug.apk",
-  "releaseNotes": "HCad v2.3.84 - v2.3.84 - Netcad Evrensel CAD İmleç Durum Matrisi ve OSNAP Rozetleri Mimarisi (Bölüm 100)",
+  "versionCode": 20385,
+  "versionName": "2.3.85",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.85/app-debug.apk",
+  "releaseNotes": "HCad v2.3.85 - v2.3.85 - Netcad Doğal Serbest Modu & Yapay \"Serbest\" Yakalama Kutusunun Kaldırılması (Bölüm 101)",
   "forceUpdate": false
 }
