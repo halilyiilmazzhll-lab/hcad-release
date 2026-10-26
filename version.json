@@ -1,7 +1,7 @@
 {
-  "versionCode": 20382,
-  "versionName": "2.3.82",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.82/app-debug.apk",
-  "releaseNotes": "HCad v2.3.82 - v2.3.82 - Boşta Dokunmayla Nesne Özellikleri Açılmasının Kaldırılması ve Yalnızca \"Obje Özellikleri\" Aracına Bağlanması (Bölüm 98)",
+  "versionCode": 20383,
+  "versionName": "2.3.83",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.83/app-debug.apk",
+  "releaseNotes": "HCad v2.3.83 - v2.3.83 - Saha GPS & Aplikasyon İyileştirmeleri, Dönüşüm Obje Seçimi, Serbest Yakalama ve TKGM Alan Adları (Bölüm 99)",
   "forceUpdate": false
 }
