@@ -1,7 +1,7 @@
 {
-  "versionCode": 20385,
-  "versionName": "2.3.85",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.85/app-debug.apk",
-  "releaseNotes": "HCad v2.3.85 - v2.3.85 - Netcad Doğal Serbest Modu & Yapay \"Serbest\" Yakalama Kutusunun Kaldırılması (Bölüm 101)",
+  "versionCode": 20386,
+  "versionName": "2.3.86",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.86/app-debug.apk",
+  "releaseNotes": "HCad v2.3.86 - v2.3.86 - Kesin CAD Pan Standardı: Kinetik Atalet ve Kayganlığın Kaldırılması (Bölüm 102)",
   "forceUpdate": false
 }
