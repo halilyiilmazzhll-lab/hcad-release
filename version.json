@@ -1,7 +1,7 @@
 {
-  "versionCode": 20391,
-  "versionName": "2.3.91",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.91/app-debug.apk",
-  "releaseNotes": "HCad v2.3.91 - v2.3.91 - Netcad Dinamik Nokta Yakalama (OSNAP) İmleç Rozetleri & Yeni 3D CAD Launcher İkonu (Bölüm 107)",
+  "versionCode": 20392,
+  "versionName": "2.3.92",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.92/app-debug.apk",
+  "releaseNotes": "HCad v2.3.92 - v2.3.92 - AutoCAD 2013+ (AC1027) DWG Açma Düzeltmesi & DataStorage Dayanıklılığı (Bölüm 109)",
   "forceUpdate": false
 }
