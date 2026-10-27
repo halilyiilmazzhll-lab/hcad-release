@@ -1,7 +1,7 @@
 {
-  "versionCode": 20392,
-  "versionName": "2.3.92",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.92/app-debug.apk",
-  "releaseNotes": "HCad v2.3.92 - v2.3.92 - AutoCAD 2013+ (AC1027) DWG Açma Düzeltmesi & DataStorage Dayanıklılığı (Bölüm 109)",
+  "versionCode": 20393,
+  "versionName": "2.3.93",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.93/app-debug.apk",
+  "releaseNotes": "HCad v2.3.93 - v2.3.93 - Mobil CAD Durum Çubuğu \"Parsel sorgu\" Hızlı Erişim Butonu (Bölüm 110)",
   "forceUpdate": false
 }
