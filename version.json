@@ -1,7 +1,7 @@
 {
-  "versionCode": 20395,
-  "versionName": "2.3.95",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.95/app-debug.apk",
-  "releaseNotes": "HCad v2.3.95 - v2.3.95 - Dikey Modda Parsel Sorgu Alan Adlarının Varsayılan Olarak Açık Olması & Görünüm Ayarları Entegrasyonu (Bölüm 112)",
+  "versionCode": 20396,
+  "versionName": "2.3.96",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.96/app-debug.apk",
+  "releaseNotes": "HCad v2.3.96 - v2.3.96 - Parsel Alan Adları Çift Render (Double Text), Soru İşareti (m?) ve Boyut İyileştirmesi (Bölüm 113)",
   "forceUpdate": false
 }
