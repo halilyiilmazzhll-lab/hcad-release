@@ -1,7 +1,7 @@
 {
-  "versionCode": 20393,
-  "versionName": "2.3.93",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.93/app-debug.apk",
-  "releaseNotes": "HCad v2.3.93 - v2.3.93 - Mobil CAD Durum Çubuğu \"Parsel sorgu\" Hızlı Erişim Butonu (Bölüm 110)",
+  "versionCode": 20394,
+  "versionName": "2.3.94",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.94/app-debug.apk",
+  "releaseNotes": "HCad v2.3.94 - v2.3.94 - DWG/DXF Model Space & Paper Space İzolasyonu ve Blok Döndürme Açısı (Radyan) Düzeltmesi (Bölüm 111)",
   "forceUpdate": false
 }
