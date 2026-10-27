@@ -1,7 +1,7 @@
 {
-  "versionCode": 20394,
-  "versionName": "2.3.94",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.94/app-debug.apk",
-  "releaseNotes": "HCad v2.3.94 - v2.3.94 - DWG/DXF Model Space & Paper Space İzolasyonu ve Blok Döndürme Açısı (Radyan) Düzeltmesi (Bölüm 111)",
+  "versionCode": 20395,
+  "versionName": "2.3.95",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.95/app-debug.apk",
+  "releaseNotes": "HCad v2.3.95 - v2.3.95 - Dikey Modda Parsel Sorgu Alan Adlarının Varsayılan Olarak Açık Olması & Görünüm Ayarları Entegrasyonu (Bölüm 112)",
   "forceUpdate": false
 }
