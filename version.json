@@ -1,7 +1,7 @@
 {
-  "versionCode": 20398,
-  "versionName": "2.3.98",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.98/app-debug.apk",
-  "releaseNotes": "HCad v2.3.98 - v2.3.98 - Proje Ekleme Kaynak Seçimi (Dosyalardan / Son Açılanlardan) & 50 Son Proje Desteği (Bölüm 115)",
+  "versionCode": 20399,
+  "versionName": "2.3.99",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.99/app-debug.apk",
+  "releaseNotes": "HCad v2.3.99 - v2.3.99 - Saha Kararlılığı, Performans Metrikleri ve CAD Araç Sayaç İyileştirmeleri (Bölüm 118)",
   "forceUpdate": false
 }
