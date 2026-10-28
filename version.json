@@ -1,7 +1,7 @@
 {
-  "versionCode": 20406,
-  "versionName": "2.4.6",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.4.6/app-debug.apk",
-  "releaseNotes": "HCad v2.4.6 - v2.4.6 - Boş Metin Yanlış Alarmının Giderilmesi, Türkçe Karakter (CP1254) Düzeltmesi & F1 Simplex Font Çizim İyileştirmesi (Bölüm 128)",
+  "versionCode": 20407,
+  "versionName": "2.4.7",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.4.7/app-debug.apk",
+  "releaseNotes": "HCad v2.4.7 - v2.4.7 - Netcad Kapalı Alan & Tarama (Solid Fill / Hatch Engine) Entegrasyonu (Bölüm 127)",
   "forceUpdate": false
 }
