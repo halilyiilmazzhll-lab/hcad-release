@@ -1,7 +1,7 @@
 {
-  "versionCode": 20397,
-  "versionName": "2.3.97",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.97/app-debug.apk",
-  "releaseNotes": "HCad v2.3.97 - v2.3.97 - Dikey Modda Proje Ekle (Append Drawing) Desteği (Bölüm 114)",
+  "versionCode": 20398,
+  "versionName": "2.3.98",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.98/app-debug.apk",
+  "releaseNotes": "HCad v2.3.98 - v2.3.98 - Proje Ekleme Kaynak Seçimi (Dosyalardan / Son Açılanlardan) & 50 Son Proje Desteği (Bölüm 115)",
   "forceUpdate": false
 }
