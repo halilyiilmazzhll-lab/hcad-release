@@ -1,7 +1,7 @@
 {
-  "versionCode": 20404,
-  "versionName": "2.4.4",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.4.4/app-debug.apk",
-  "releaseNotes": "HCad v2.4.4 - v2.4.4 - ED50 7-Parametreli Bursa-Wolf Helmert Datum Dönüşümü & Netcad 8.5 Birebir Projeksiyon Parametreleri (Bölüm 125)",
+  "versionCode": 20405,
+  "versionName": "2.4.5",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.4.5/app-debug.apk",
+  "releaseNotes": "HCad v2.4.5 - v2.4.5 - Netcad NCZ Blok Ayrıştırıcı Desenkronizasyon Düzeltmesi & Eksik Veri / Geometri Restorasyonu (Bölüm 126)",
   "forceUpdate": false
 }
