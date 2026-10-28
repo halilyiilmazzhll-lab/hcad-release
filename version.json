@@ -1,7 +1,7 @@
 {
-  "versionCode": 20407,
-  "versionName": "2.4.7",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.4.7/app-debug.apk",
-  "releaseNotes": "HCad v2.4.7 - v2.4.7 - Netcad Kapalı Alan & Tarama (Solid Fill / Hatch Engine) Entegrasyonu (Bölüm 127)",
+  "versionCode": 20408,
+  "versionName": "2.4.8",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.4.8/app-debug.apk",
+  "releaseNotes": "HCad v2.4.8 - v2.4.8 - Gömülü TCDD ED50-ITRF96 DNS Dönüşüm Desteği & Hibrit Seçici (Bölüm 132)",
   "forceUpdate": false
 }
