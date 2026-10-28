@@ -1,7 +1,7 @@
 {
-  "versionCode": 20403,
-  "versionName": "2.4.3",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.4.3/app-debug.apk",
-  "releaseNotes": "HCad v2.4.3 - v2.4.3 - F1 Fallback İptali & Mekânsal Grid Tabanlı Nokta Etiketi LOD (Level of Detail) Mimarisi (Bölüm 124)",
+  "versionCode": 20404,
+  "versionName": "2.4.4",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.4.4/app-debug.apk",
+  "releaseNotes": "HCad v2.4.4 - v2.4.4 - ED50 7-Parametreli Bursa-Wolf Helmert Datum Dönüşümü & Netcad 8.5 Birebir Projeksiyon Parametreleri (Bölüm 125)",
   "forceUpdate": false
 }
