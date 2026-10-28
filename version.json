@@ -1,7 +1,7 @@
 {
-  "versionCode": 20400,
-  "versionName": "2.4.0",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.4.0/app-debug.apk",
-  "releaseNotes": "HCad v2.4.0 - v2.4.0 - Netcad Alan Taramaları (Hatch Engine) ve Büyük Çizim Nokta Etiketi GPU Kararlılığı (Bölüm 120)",
+  "versionCode": 20401,
+  "versionName": "2.4.1",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.4.1/app-debug.apk",
+  "releaseNotes": "HCad v2.4.1 - Bölüm 118 ve 119 Düzeltmelerinin Uygulanması & NCZ Blok Resenkronizasyonu",
   "forceUpdate": false
 }
