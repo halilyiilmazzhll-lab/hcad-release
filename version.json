@@ -1,7 +1,7 @@
 {
-  "versionCode": 20396,
-  "versionName": "2.3.96",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.96/app-debug.apk",
-  "releaseNotes": "HCad v2.3.96 - v2.3.96 - Parsel Alan Adları Çift Render (Double Text), Soru İşareti (m?) ve Boyut İyileştirmesi (Bölüm 113)",
+  "versionCode": 20397,
+  "versionName": "2.3.97",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.3.97/app-debug.apk",
+  "releaseNotes": "HCad v2.3.97 - v2.3.97 - Dikey Modda Proje Ekle (Append Drawing) Desteği (Bölüm 114)",
   "forceUpdate": false
 }
