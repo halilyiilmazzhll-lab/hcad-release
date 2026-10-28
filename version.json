@@ -1,7 +1,7 @@
 {
-  "versionCode": 20402,
-  "versionName": "2.4.2",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.4.2/app-debug.apk",
-  "releaseNotes": "HCad v2.4.2 - v2.4.2 - Nokta Bilgileri Eksiksiz Gösterim Düzeltmesi & Dinamik Nokta Etiketi Ölçeklendirme (Bölüm 123)",
+  "versionCode": 20403,
+  "versionName": "2.4.3",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.4.3/app-debug.apk",
+  "releaseNotes": "HCad v2.4.3 - v2.4.3 - F1 Fallback İptali & Mekânsal Grid Tabanlı Nokta Etiketi LOD (Level of Detail) Mimarisi (Bölüm 124)",
   "forceUpdate": false
 }
