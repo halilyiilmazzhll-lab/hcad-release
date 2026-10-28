@@ -1,7 +1,7 @@
 {
-  "versionCode": 20401,
-  "versionName": "2.4.1",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.4.1/app-debug.apk",
-  "releaseNotes": "HCad v2.4.1 - Bölüm 118 ve 119 Düzeltmelerinin Uygulanması & NCZ Blok Resenkronizasyonu",
+  "versionCode": 20402,
+  "versionName": "2.4.2",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.4.2/app-debug.apk",
+  "releaseNotes": "HCad v2.4.2 - v2.4.2 - Nokta Bilgileri Eksiksiz Gösterim Düzeltmesi & Dinamik Nokta Etiketi Ölçeklendirme (Bölüm 123)",
   "forceUpdate": false
 }
