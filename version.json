@@ -1,7 +1,7 @@
 {
-  "versionCode": 20503,
-  "versionName": "2.5.3",
-  "apkUrl": "https://pub-6586f5877031492dafa3061eb4ee3ddb.r2.dev/releases/hcad-release-v2.5.3.apk",
-  "releaseNotes": "HCad v2.5.3 - v2.5.3 - Kurumsal Paket Geçişi (com.hcad.halil), Cloudflare R2 Dağıtımı ve Presigned URL Güvenliği (Bölüm 142)",
+  "versionCode": 20504,
+  "versionName": "2.5.4",
+  "apkUrl": "https://pub-6586f5877031492dafa3061eb4ee3ddb.r2.dev/releases/hcad-release-v2.5.4.apk",
+  "releaseNotes": "HCad v2.5.4 - v2.5.4 - Kesin 1 Lisans = 1 Cihaz Güvenlik İlkesi ve Lisans Paylaşımı Engellemesi (Bölüm 146)",
   "forceUpdate": false
 }
