@@ -1,7 +1,7 @@
 {
-  "versionCode": 20408,
-  "versionName": "2.4.8",
-  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.4.8/app-debug.apk",
-  "releaseNotes": "HCad v2.4.8 - v2.4.8 - Gömülü TCDD ED50-ITRF96 DNS Dönüşüm Desteği & Hibrit Seçici (Bölüm 132)",
+  "versionCode": 20409,
+  "versionName": "2.4.9",
+  "apkUrl": "https://github.com/halilyiilmazzhll-lab/hcad-release/releases/download/v2.4.9/app-debug.apk",
+  "releaseNotes": "HCad v2.4.9 - v2.4.9 - Kesintisiz Lisans Altyapısı (Deno Deploy & Turso SQLite) & Türkiye İSS Erişim Güvencesi (Bölüm 133)",
   "forceUpdate": false
 }
